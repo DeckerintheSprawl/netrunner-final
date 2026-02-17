@@ -1,0 +1,5 @@
+.config/
+python-for-android/
+bin/
+*.pyc
+.buildozer/
